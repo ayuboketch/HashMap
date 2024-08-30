@@ -1,0 +1,12 @@
+{
+  "name": "hashmap",
+  "version": "1.0.0",
+  "description": "HashMap Linked Lists # hashmap.js A lightweight working implementation of HashMaps and HashSets in JS.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
